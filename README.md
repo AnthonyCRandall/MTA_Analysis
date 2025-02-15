@@ -14,4 +14,7 @@ On top of base R, this analysis also consisted of the following libraries:
 ### Steps 🚶🏾‍♂️
 1. Collected Data
    * Downloaded the data as a CSV file and imported it into RStudio.
-2. 
+2. Answered Questions
+   * Answered questions that my professor listed (those questions can be found in the comments within the script)
+3. Documented the Results
+   * Used r markdown to display my findings in a clear fashion so that non techical people can understand
